@@ -1,0 +1,1529 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="The_Open_Group" />
+    <node id="Smart_lock" />
+    <node id="Identity_theft" />
+    <node id="Graph_theory" />
+    <node id="DEF_CON" />
+    <node id="ASIS_International" />
+    <node id="Personnel" />
+    <node id="Durable_goods" />
+    <node id="Aircraft" />
+    <node id="GitHub" />
+    <node id="Fingerprint" />
+    <node id="Ant_colony" />
+    <node id="Media_theory" />
+    <node id="Fire_protection" />
+    <node id="Herd_mentality" />
+    <node id="Risk_factor_(computing)" />
+    <node id="Payment" />
+    <node id="Liability_(financial_accounting)" />
+    <node id="Estonia" />
+    <node id="Software" />
+    <node id="Mechanics" />
+    <node id="Ukraine" />
+    <node id="Systems_thinking" />
+    <node id="Beaver_dam" />
+    <node id="Egypt" />
+    <node id="Attack_(computing)" />
+    <node id="US_Department_of_Homeland_Security" />
+    <node id="Thomas_Jefferson" />
+    <node id="Ross_Ashby" />
+    <node id="Software_bug" />
+    <node id="Access_control" />
+    <node id="Bluetooth" />
+    <node id="Machine" />
+    <node id="Power_delivery" />
+    <node id="Integrity" />
+    <node id="Service_drop" />
+    <node id="Perimeter_intrusion_detection" />
+    <node id="Intention" />
+    <node id="Academic_discipline" />
+    <node id="Chemical_substance" />
+    <node id="Base_station" />
+    <node id="Algorithm" />
+    <node id="Wireless_Sensor_Networks" />
+    <node id="Closed_system" />
+    <node id="Razor_wire" />
+    <node id="Wireless" />
+    <node id="Consumer" />
+    <node id="Foreign_direct_investment" />
+    <node id="Key-agreement_protocol" />
+    <node id="Smart_device" />
+    <node id="Domain_Name_System_Security_Extensions" />
+    <node id="Arc_lamp" />
+    <node id="Salt_(cryptography)" />
+    <node id="Jeh_Johnson" />
+    <node id="Structure" />
+    <node id="Nonbuilding_structure" />
+    <node id="Physical_security" />
+    <node id="Steam_engine" />
+    <node id="Security_token" />
+    <node id="Smartwatch" />
+    <node id="Austria" />
+    <node id="Collective_intelligence" />
+    <node id="NIST" />
+    <node id="Theft" />
+    <node id="African_countries" />
+    <node id="Building" />
+    <node id="David_Harvey_(geographer)" />
+    <node id="Al-Kindi" />
+    <node id="Resource" />
+    <node id="Pin_tumbler_lock" />
+    <node id="World-systems_theory" />
+    <node id="2G" />
+    <node id="101st_Airborne_Division" />
+    <node id="Georgia_(U.S._state)" />
+    <node id="Lock_(security_device)" />
+    <node id="Keyhole" />
+    <node id="D-Day" />
+    <node id="Economies_of_scale" />
+    <node id="Klaus_Schwab" />
+    <node id="Voting_machines" />
+    <node id="Code_injection" />
+    <node id="Nicolas_L%C3%A9onard_Sadi_Carnot" />
+    <node id="Warded_lock" />
+    <node id="Centrality" />
+    <node id="Knowledge-based_economy" />
+    <node id="Cellular_networks" />
+    <node id="Al-Qalqashandi" />
+    <node id="December_2015_Ukraine_power_grid_cyberattack" />
+    <node id="Systems_theory" />
+    <node id="Hierarchy" />
+    <node id="War_of_currents" />
+    <node id="HIPERLAN" />
+    <node id="Idealism" />
+    <node id="Time" />
+    <node id="Structural_load" />
+    <node id="Zigbee" />
+    <node id="Transmission_Control_Protocol" />
+    <node id="Earthquake" />
+    <node id="Thomas_Edison" />
+    <node id="Theory" />
+    <node id="Africa" />
+    <node id="General_systems_theory" />
+    <node id="Ciphertext" />
+    <node id="Ultra-wideband" />
+    <node id="Smart_thermostat" />
+    <node id="Utility_pole" />
+    <node id="Smart_keychain" />
+    <node id="Systems_biology" />
+    <node id="Thermodynamics" />
+    <node id="Hacktivist" />
+    <node id="Beguinage" />
+    <node id="Phablet" />
+    <node id="Security_controls" />
+    <node id="Norbert_Wiener" />
+    <node id="Small-world_network" />
+    <node id="Evolutionary_computation" />
+    <node id="No-cloning_theorem" />
+    <node id="Nickel_silver" />
+    <node id="Pearl_Street_Station" />
+    <node id="Security_guards" />
+    <node id="Radio-frequency_identification" />
+    <node id="Lattice_(order)" />
+    <node id="Harri_Hursti" />
+    <node id="MECE_principle" />
+    <node id="United_Nations" />
+    <node id="ANT_(network)" />
+    <node id="Wi-Fi" />
+    <node id="Vehicular_automation" />
+    <node id="Ransomware" />
+    <node id="Swarm_behaviour" />
+    <node id="Terminology" />
+    <node id="Greek_language" />
+    <node id="Power_stations" />
+    <node id="Near-field_communication" />
+    <node id="Computer_security" />
+    <node id="Heterogeneity_in_economics" />
+    <node id="Network_motif" />
+    <node id="Passive_attack" />
+    <node id="4G" />
+    <node id="Futures_contract" />
+    <node id="Personal_area_network" />
+    <node id="Synchronization" />
+    <node id="Smart_speaker" />
+    <node id="Subtransmission" />
+    <node id="Complex_network" />
+    <node id="Salt_dome" />
+    <node id="5G" />
+    <node id="World_Trade_Organization" />
+    <node id="Conflict_of_interest" />
+    <node id="Gas_lighting" />
+    <node id="Common_Vulnerabilities_and_Exposures" />
+    <node id="Barbed_wire" />
+    <node id="U.S._Department_of_Homeland_Security" />
+    <node id="Global_Risks_Report" />
+    <node id="Dictionary_attack" />
+    <node id="Electric_power_transmission" />
+    <node id="Intangible_goods" />
+    <node id="IP_address" />
+    <node id="Smart_band" />
+    <node id="Rick_Astley" />
+    <node id="Accumulation_by_dispossession" />
+    <node id="Password" />
+    <node id="Lock_picking" />
+    <node id="Zero-day_(computing)" />
+    <node id="NearLink" />
+    <node id="Romanization_of_Ancient_Greek" />
+    <node id="Hellenic_languages" />
+    <node id="Radiant_energy" />
+    <node id="Red_Hat" />
+    <node id="Louis_Althusser" />
+    <node id="OWASP" />
+    <node id="Active_defense" />
+    <node id="PricewaterhouseCoopers" />
+    <node id="Transport_Layer_Security" />
+    <node id="Secure_channel" />
+    <node id="Polybius" />
+    <node id="Service_quality" />
+    <node id="Fire" />
+    <node id="Code" />
+    <node id="Option_(finance)" />
+    <node id="Wireless_local_area_network" />
+    <node id="List_of_business_theorists" />
+    <node id="Control_system" />
+    <node id="Particle_swarm_optimization" />
+    <node id="Incandescent_lamp" />
+    <node id="World_Economic_Forum" />
+    <node id="Lock_and_key" />
+    <node id="Pseudo-random" />
+    <node id="Key_(cryptography)" />
+    <node id="Chief_executive_officers" />
+    <node id="Mineral" />
+    <node id="Ludwig_von_Bertalanffy" />
+    <node id="Organismic_theory" />
+    <node id="Scalability" />
+    <node id="Cryptography_law" />
+    <node id="Economic_sector" />
+    <node id="Office_building" />
+    <node id="Operating_system" />
+    <node id="Overdetermination" />
+    <node id="Hardware_bug" />
+    <node id="Public_utility" />
+    <node id="Fourth_Industrial_Revolution" />
+    <node id="Cyber-physical_system" />
+    <node id="Competition_(economics)" />
+    <node id="Organism" />
+    <node id="Smart_card" />
+    <node id="Cyberwarfare" />
+    <node id="Electric_motor" />
+    <node id="MIT" />
+    <node id="Cybersecurity_and_Infrastructure_Security_Agency" />
+    <node id="Cryptography" />
+    <node id="Jefferson_disk" />
+    <node id="Dynamic_network_analysis" />
+    <node id="Alice_and_Bob#Mallory" />
+    <node id="Ant_colony_optimization_algorithms" />
+    <node id="Quantum_cryptography" />
+    <node id="Utilization_voltage" />
+    <node id="Marshall_McLuhan" />
+    <node id="Lone_wolf_(terrorism)" />
+    <node id="Smart_doorbell" />
+    <node id="Keycard_lock" />
+    <node id="Election_security" />
+    <node id="Wireless_network_standards" />
+    <node id="Wide_area_network" />
+    <node id="Asset" />
+    <node id="Bulgaria" />
+    <node id="Bit_(key)" />
+    <node id="Business" />
+    <node id="Robert_Morris_(cryptographer)" />
+    <node id="Electric_power_distribution" />
+    <node id="Maniple_(military_unit)" />
+    <node id="Capitalism" />
+    <node id="Privatization" />
+    <node id="Cyber_resilience" />
+    <node id="Voter_registration" />
+    <node id="Natural_disaster" />
+    <node id="Availability" />
+    <node id="Nation_state" />
+    <node id="Swap_(finance)" />
+    <node id="Praxis_intervention" />
+    <node id="Loan" />
+    <node id="World_Bank" />
+    <node id="Genetic_algorithm" />
+    <node id="Bond_(finance)" />
+    <node id="Frequency_analysis" />
+    <node id="Character_(computing)" />
+    <node id="Commercial_software" />
+    <node id="Dramaturgy" />
+    <node id="Election" />
+    <node id="Network_eavesdropping" />
+    <node id="Accident" />
+    <node id="Security_vulnerability" />
+    <node id="HTTP_Public_Key_Pinning" />
+    <node id="Open_system_(systems_theory)" />
+    <node id="Business_administration" />
+    <node id="Mutual_authentication" />
+    <node id="Security_lighting" />
+    <node id="Jay_Wright_Forrester" />
+    <node id="National_Cyber_Security_Division" />
+    <node id="CCTV" />
+    <node id="GSM" />
+    <node id="Confidentiality" />
+    <node id="Intangible_good" />
+    <node id="George_Westinghouse" />
+    <node id="Prison" />
+    <node id="Isolated_system" />
+    <node id="ZRTP" />
+    <node id="Agent-based_model" />
+    <node id="Phase_transition" />
+    <node id="OECD" />
+    <node id="Stock" />
+    <node id="Software_patch" />
+    <node id="Man-in-the-middle_attack" />
+    <node id="Symmetric-key_algorithm" />
+    <node id="Wireless_access_point" />
+    <node id="Malware" />
+    <node id="Never_Gonna_Give_You_Up" />
+    <node id="The_MITRE_Corporation" />
+    <node id="Stage_(theatre)" />
+    <node id="Musical_form" />
+    <node id="Currency" />
+    <node id="Assyria" />
+    <node id="Self-organized_criticality" />
+    <node id="Encryption" />
+    <node id="Corporate_finance" />
+    <node id="CIA_triad" />
+    <node id="Public_finance" />
+    <node id="Public-key_cryptography" />
+    <node id="Cryptographic_hash_function" />
+    <node id="World_Bank_Group" />
+    <node id="Security_Content_Automation_Protocol" />
+    <node id="6LoWPAN" />
+    <node id="Rudolf_Clausius" />
+    <node id="Emergency_management" />
+    <node id="Theodorus_of_Samos" />
+    <node id="Vulnerability_(computing)" />
+    <node id="Money" />
+    <node id="Security_convergence" />
+    <node id="Small_and_medium-sized_enterprises" />
+    <node id="Common_utility_duct" />
+    <node id="Season" />
+    <node id="Aesthetics" />
+    <node id="Li-Fi" />
+    <node id="Service_(economics)" />
+    <node id="Germany" />
+    <node id="Banking_in_Africa" />
+    <node id="Threat_(security)" />
+    <node id="Public_service" />
+    <node id="Energy" />
+    <node id="Crime_prevention_through_environmental_design" />
+    <node id="Non-performing_loan" />
+    <node id="Latin" />
+    <node id="DECT" />
+    <node id="Construction" />
+    <node id="Passphrase" />
+    <node id="ISSA_(professional_organization)" />
+    <node id="GDP" />
+    <node id="Tunisia" />
+    <node id="Investment" />
+    <node id="Alice_and_Bob" />
+    <node id="Finance" />
+    <node id="Smart_glasses" />
+    <node id="3G" />
+    <node id="System" />
+    <node id="Khnumhotep_II" />
+    <node id="Cybernetics" />
+    <node id="Risk_assessment" />
+    <node id="Invasion_of_Normandy" />
+    <node id="Public_key_infrastructure" />
+    <node id="Wireless_USB" />
+    <node id="Business_continuity_planning" />
+    <node id="Share_(finance)" />
+    <node id="Financial_system" />
+    <node id="Electric_power_industry" />
+    <node id="Personal_finance" />
+    <node id="Caesar_cipher" />
+    <node id="Passwords" />
+    <node id="Cyberattack" />
+    <node id="Mass" />
+    <node id="Hardening_(computing)" />
+    <node id="Environment_(systems)" />
+    <node id="Natanz" />
+    <node id="Lier,_Belgium" />
+    <node id="Terrorist" />
+    <node id="Espionage" />
+    <node id="Smartphone" />
+    <node id="Automated_threat" />
+    <node id="User_(computing)" />
+    <node id="Innovation" />
+    <node id="Brass" />
+    <node id="Fence" />
+    <node id="Kostas_Axelos" />
+    <node id="Compatible_Time-Sharing_System" />
+    <node id="Plaintext" />
+    <node id="Risk_management" />
+    <node id="Government" />
+    <node id="Human_rights" />
+    <node id="Micro-segmentation" />
+    <node id="Physical_infrastructure" />
+    <node id="Electrical_substation" />
+    <node id="Social_network_analysis" />
+    <node id="Skeleton" />
+    <node id="Software_bugs" />
+    <node id="Bank" />
+    <node id="Gartner" />
+    <node id="Link_(geometry)" />
+    <node id="Unix" />
+    <node id="Romanization_of_Greek" />
+    <node id="Stuxnet" />
+    <node id="Bridge" />
+    <node id="Certificate_authority" />
+    <node id="Business_cycle" />
+    <node id="France" />
+    <node id="Tornado" />
+    <node id="Memorized" />
+    <node id="Financial_instrument" />
+    <node id="Modern_Greek" />
+    <node id="Security" />
+    <node id="Jurisdiction" />
+    <node id="Collective_action" />
+    <node id="Theory_of_Evolution" />
+    <node id="Protective_barriers" />
+    <node id="Steel" />
+    <node id="Military_of_ancient_Rome" />
+    <node id="Cipher" />
+    <node id="Web_application" />
+    <node id="Ancient_Greek_language" />
+    <node id="Solar_radiation" />
+    <node id="Zero_trust" />
+    <node id="Communications_system" />
+    <node id="Threat_actor" />
+    <node id="Leon_Battista_Alberti" />
+    <node id="Company" />
+    <node id="Tribune" />
+    <node id="Crypt_(Unix)" />
+    <node id="Nineveh" />
+    <node id="Australia" />
+    <node id="Polyalphabetic_cipher" />
+    <node id="Volt" />
+    <node id="Chile" />
+    <edge source="Smart_lock" target="Lock_(security_device)" />
+    <edge source="Smart_lock" target="Smartphone" />
+    <edge source="Smart_lock" target="Keycard_lock" />
+    <edge source="Smart_lock" target="Wi-Fi" />
+    <edge source="Smart_lock" target="Smart_doorbell" />
+    <edge source="Smart_lock" target="Transport_Layer_Security" />
+    <edge source="Identity_theft" target="Fingerprint" />
+    <edge source="Identity_theft" target="Password" />
+    <edge source="DEF_CON" target="Wi-Fi" />
+    <edge source="DEF_CON" target="Cybersecurity_and_Infrastructure_Security_Agency" />
+    <edge source="ASIS_International" target="Physical_security" />
+    <edge source="Personnel" target="Company" />
+    <edge source="GitHub" target="Access_control" />
+    <edge source="Ant_colony" target="Australia" />
+    <edge source="Fire_protection" target="Fire" />
+    <edge source="Fire_protection" target="System" />
+    <edge source="Fire_protection" target="Building" />
+    <edge source="Herd_mentality" target="Collective_intelligence" />
+    <edge source="Risk_factor_(computing)" target="Vulnerability_(computing)" />
+    <edge source="Payment" target="Service_(economics)" />
+    <edge source="Payment" target="Money" />
+    <edge source="Liability_(financial_accounting)" target="Asset" />
+    <edge source="Liability_(financial_accounting)" target="Bank" />
+    <edge source="Mechanics" target="Ancient_Greek_language" />
+    <edge source="Mechanics" target="Machine" />
+    <edge source="Systems_thinking" target="Collective_intelligence" />
+    <edge source="Systems_thinking" target="Collective_action" />
+    <edge source="Systems_thinking" target="Self-organized_criticality" />
+    <edge source="Systems_thinking" target="Herd_mentality" />
+    <edge source="Systems_thinking" target="Phase_transition" />
+    <edge source="Systems_thinking" target="Agent-based_model" />
+    <edge source="Systems_thinking" target="Synchronization" />
+    <edge source="Systems_thinking" target="Ant_colony_optimization_algorithms" />
+    <edge source="Systems_thinking" target="Particle_swarm_optimization" />
+    <edge source="Systems_thinking" target="Swarm_behaviour" />
+    <edge source="Systems_thinking" target="Social_network_analysis" />
+    <edge source="Systems_thinking" target="Small-world_network" />
+    <edge source="Systems_thinking" target="Centrality" />
+    <edge source="Systems_thinking" target="Network_motif" />
+    <edge source="Systems_thinking" target="Graph_theory" />
+    <edge source="Systems_thinking" target="Scalability" />
+    <edge source="Systems_thinking" target="Systems_biology" />
+    <edge source="Systems_thinking" target="Dynamic_network_analysis" />
+    <edge source="Systems_thinking" target="Evolutionary_computation" />
+    <edge source="Systems_thinking" target="Genetic_algorithm" />
+    <edge source="Attack_(computing)" target="CIA_triad" />
+    <edge source="Attack_(computing)" target="Software_bug" />
+    <edge source="Attack_(computing)" target="Hacktivist" />
+    <edge source="Attack_(computing)" target="Malware" />
+    <edge source="Attack_(computing)" target="Identity_theft" />
+    <edge source="Attack_(computing)" target="Cyberwarfare" />
+    <edge source="Attack_(computing)" target="Ransomware" />
+    <edge source="Attack_(computing)" target="Software_bugs" />
+    <edge source="Attack_(computing)" target="Hardware_bug" />
+    <edge source="Attack_(computing)" target="Vulnerability_(computing)" />
+    <edge source="Attack_(computing)" target="Software_patch" />
+    <edge source="Attack_(computing)" target="Zero-day_(computing)" />
+    <edge source="Attack_(computing)" target="Code_injection" />
+    <edge source="Attack_(computing)" target="Hardening_(computing)" />
+    <edge source="Attack_(computing)" target="Risk_assessment" />
+    <edge source="Attack_(computing)" target="Active_defense" />
+    <edge source="Attack_(computing)" target="Cyber_resilience" />
+    <edge source="Attack_(computing)" target="Micro-segmentation" />
+    <edge source="Attack_(computing)" target="Zero_trust" />
+    <edge source="Attack_(computing)" target="Business_continuity_planning" />
+    <edge source="Ross_Ashby" target="Cybernetics" />
+    <edge source="Ross_Ashby" target="Norbert_Wiener" />
+    <edge source="Ross_Ashby" target="Systems_theory" />
+    <edge source="Power_delivery" target="Consumer" />
+    <edge source="Service_drop" target="Electric_power_distribution" />
+    <edge source="Service_drop" target="Utility_pole" />
+    <edge source="Perimeter_intrusion_detection" target="Security_lighting" />
+    <edge source="Academic_discipline" target="Systems_theory" />
+    <edge source="Chemical_substance" target="Phase_transition" />
+    <edge source="Base_station" target="3G" />
+    <edge source="Base_station" target="4G" />
+    <edge source="Base_station" target="5G" />
+    <edge source="Closed_system" target="Isolated_system" />
+    <edge source="Closed_system" target="Thermodynamics" />
+    <edge source="Closed_system" target="Time" />
+    <edge source="Razor_wire" target="Germany" />
+    <edge source="Wireless" target="Bluetooth" />
+    <edge source="Consumer" target="Service_(economics)" />
+    <edge source="Consumer" target="Capitalism" />
+    <edge source="Foreign_direct_investment" target="World_Bank" />
+    <edge source="Foreign_direct_investment" target="Bond_(finance)" />
+    <edge source="Key-agreement_protocol" target="Key_(cryptography)" />
+    <edge source="Key-agreement_protocol" target="Confidentiality" />
+    <edge source="Key-agreement_protocol" target="Symmetric-key_algorithm" />
+    <edge source="Key-agreement_protocol" target="Cryptographic_hash_function" />
+    <edge source="Key-agreement_protocol" target="Public-key_cryptography" />
+    <edge source="Smart_device" target="Wireless" />
+    <edge source="Smart_device" target="Bluetooth" />
+    <edge source="Smart_device" target="Zigbee" />
+    <edge source="Smart_device" target="Near-field_communication" />
+    <edge source="Smart_device" target="Wi-Fi" />
+    <edge source="Smart_device" target="NearLink" />
+    <edge source="Smart_device" target="Li-Fi" />
+    <edge source="Smart_device" target="5G" />
+    <edge source="Smart_device" target="Smartphone" />
+    <edge source="Smart_device" target="Smart_speaker" />
+    <edge source="Smart_device" target="Vehicular_automation" />
+    <edge source="Smart_device" target="Smart_card" />
+    <edge source="Smart_device" target="Smart_thermostat" />
+    <edge source="Smart_device" target="Smart_doorbell" />
+    <edge source="Smart_device" target="Smart_lock" />
+    <edge source="Smart_device" target="Phablet" />
+    <edge source="Smart_device" target="Smartwatch" />
+    <edge source="Smart_device" target="Smart_band" />
+    <edge source="Smart_device" target="Smart_keychain" />
+    <edge source="Smart_device" target="Smart_glasses" />
+    <edge source="Domain_Name_System_Security_Extensions" target="Transport_Layer_Security" />
+    <edge source="Salt_(cryptography)" target="Cryptography" />
+    <edge source="Salt_(cryptography)" target="Cryptographic_hash_function" />
+    <edge source="Salt_(cryptography)" target="Password" />
+    <edge source="Salt_(cryptography)" target="Passphrase" />
+    <edge source="Salt_(cryptography)" target="Unix" />
+    <edge source="Structure" target="System" />
+    <edge source="Structure" target="Building" />
+    <edge source="Structure" target="Machine" />
+    <edge source="Structure" target="Organism" />
+    <edge source="Structure" target="Mineral" />
+    <edge source="Structure" target="Chemical_substance" />
+    <edge source="Structure" target="Musical_form" />
+    <edge source="Structure" target="Hierarchy" />
+    <edge source="Structure" target="Complex_network" />
+    <edge source="Structure" target="Link_(geometry)" />
+    <edge source="Structure" target="Lattice_(order)" />
+    <edge source="Structure" target="Aircraft" />
+    <edge source="Structure" target="Skeleton" />
+    <edge source="Structure" target="Ant_colony" />
+    <edge source="Structure" target="Beaver_dam" />
+    <edge source="Structure" target="Bridge" />
+    <edge source="Structure" target="Salt_dome" />
+    <edge source="Structure" target="Structural_load" />
+    <edge source="Structure" target="Construction" />
+    <edge source="Structure" target="Nonbuilding_structure" />
+    <edge source="Nonbuilding_structure" target="Structure" />
+    <edge source="Nonbuilding_structure" target="Construction" />
+    <edge source="Nonbuilding_structure" target="Building" />
+    <edge source="Physical_security" target="Security" />
+    <edge source="Physical_security" target="Espionage" />
+    <edge source="Physical_security" target="Theft" />
+    <edge source="Physical_security" target="Terrorist" />
+    <edge source="Physical_security" target="CCTV" />
+    <edge source="Physical_security" target="Security_guards" />
+    <edge source="Physical_security" target="Protective_barriers" />
+    <edge source="Physical_security" target="Lock_(security_device)" />
+    <edge source="Physical_security" target="Access_control" />
+    <edge source="Physical_security" target="Perimeter_intrusion_detection" />
+    <edge source="Physical_security" target="Fire_protection" />
+    <edge source="Physical_security" target="Aesthetics" />
+    <edge source="Physical_security" target="Human_rights" />
+    <edge source="Physical_security" target="Prison" />
+    <edge source="Physical_security" target="Crime_prevention_through_environmental_design" />
+    <edge source="Physical_security" target="Fence" />
+    <edge source="Physical_security" target="Security_lighting" />
+    <edge source="Physical_security" target="Barbed_wire" />
+    <edge source="Physical_security" target="Razor_wire" />
+    <edge source="Physical_security" target="Office_building" />
+    <edge source="Security_token" target="Password" />
+    <edge source="Security_token" target="Passwords" />
+    <edge source="Security_token" target="Fingerprint" />
+    <edge source="Security_token" target="Near-field_communication" />
+    <edge source="Security_token" target="Radio-frequency_identification" />
+    <edge source="Security_token" target="Bluetooth" />
+    <edge source="Smartwatch" target="Smartphone" />
+    <edge source="Smartwatch" target="Bluetooth" />
+    <edge source="Smartwatch" target="Wi-Fi" />
+    <edge source="Theft" target="Service_(economics)" />
+    <edge source="African_countries" target="United_Nations" />
+    <edge source="African_countries" target="France" />
+    <edge source="African_countries" target="Africa" />
+    <edge source="African_countries" target="Egypt" />
+    <edge source="Building" target="Nonbuilding_structure" />
+    <edge source="Building" target="Fence" />
+    <edge source="Building" target="Construction" />
+    <edge source="David_Harvey_(geographer)" target="Academic_discipline" />
+    <edge source="Pin_tumbler_lock" target="Lock_(security_device)" />
+    <edge source="Pin_tumbler_lock" target="Egypt" />
+    <edge source="Pin_tumbler_lock" target="Lock_picking" />
+    <edge source="World-systems_theory" target="Nation_state" />
+    <edge source="2G" target="GSM" />
+    <edge source="2G" target="3G" />
+    <edge source="101st_Airborne_Division" target="France" />
+    <edge source="Lock_(security_device)" target="Mechanics" />
+    <edge source="Lock_(security_device)" target="Keycard_lock" />
+    <edge source="Lock_(security_device)" target="Fingerprint" />
+    <edge source="Lock_(security_device)" target="Radio-frequency_identification" />
+    <edge source="Lock_(security_device)" target="Security_token" />
+    <edge source="Lock_(security_device)" target="Password" />
+    <edge source="Lock_(security_device)" target="Bit_(key)" />
+    <edge source="Lock_(security_device)" target="Keyhole" />
+    <edge source="Lock_(security_device)" target="Brass" />
+    <edge source="Lock_(security_device)" target="Nickel_silver" />
+    <edge source="Lock_(security_device)" target="Steel" />
+    <edge source="Lock_(security_device)" target="Lock_picking" />
+    <edge source="Lock_(security_device)" target="Nineveh" />
+    <edge source="Lock_(security_device)" target="Assyria" />
+    <edge source="Lock_(security_device)" target="Egypt" />
+    <edge source="Lock_(security_device)" target="Pin_tumbler_lock" />
+    <edge source="Lock_(security_device)" target="Warded_lock" />
+    <edge source="Lock_(security_device)" target="Theodorus_of_Samos" />
+    <edge source="Lock_(security_device)" target="Beguinage" />
+    <edge source="Lock_(security_device)" target="Lier,_Belgium" />
+    <edge source="Keyhole" target="Mechanics" />
+    <edge source="Keyhole" target="Keycard_lock" />
+    <edge source="Keyhole" target="Fingerprint" />
+    <edge source="Keyhole" target="Radio-frequency_identification" />
+    <edge source="Keyhole" target="Security_token" />
+    <edge source="Keyhole" target="Password" />
+    <edge source="Keyhole" target="Bit_(key)" />
+    <edge source="Keyhole" target="Keyhole" />
+    <edge source="Keyhole" target="Brass" />
+    <edge source="Keyhole" target="Nickel_silver" />
+    <edge source="Keyhole" target="Steel" />
+    <edge source="Keyhole" target="Lock_picking" />
+    <edge source="Keyhole" target="Nineveh" />
+    <edge source="Keyhole" target="Assyria" />
+    <edge source="Keyhole" target="Egypt" />
+    <edge source="Keyhole" target="Pin_tumbler_lock" />
+    <edge source="Keyhole" target="Warded_lock" />
+    <edge source="Keyhole" target="Theodorus_of_Samos" />
+    <edge source="Keyhole" target="Beguinage" />
+    <edge source="Keyhole" target="Lier,_Belgium" />
+    <edge source="Klaus_Schwab" target="World_Economic_Forum" />
+    <edge source="Code_injection" target="Malware" />
+    <edge source="Code_injection" target="Operating_system" />
+    <edge source="Nicolas_L%C3%A9onard_Sadi_Carnot" target="Rudolf_Clausius" />
+    <edge source="Nicolas_L%C3%A9onard_Sadi_Carnot" target="Thermodynamics" />
+    <edge source="Warded_lock" target="Lock_(security_device)" />
+    <edge source="Warded_lock" target="Keyhole" />
+    <edge source="Warded_lock" target="Pin_tumbler_lock" />
+    <edge source="Centrality" target="Graph_theory" />
+    <edge source="Centrality" target="Social_network_analysis" />
+    <edge source="Knowledge-based_economy" target="Innovation" />
+    <edge source="Cellular_networks" target="Base_station" />
+    <edge source="Cellular_networks" target="Smartwatch" />
+    <edge source="Cellular_networks" target="5G" />
+    <edge source="Al-Qalqashandi" target="Egypt" />
+    <edge source="Al-Qalqashandi" target="Polyalphabetic_cipher" />
+    <edge source="Al-Qalqashandi" target="Plaintext" />
+    <edge source="Al-Qalqashandi" target="Al-Kindi" />
+    <edge source="December_2015_Ukraine_power_grid_cyberattack" target="Ukraine" />
+    <edge source="Systems_theory" target="Collective_intelligence" />
+    <edge source="Systems_theory" target="Collective_action" />
+    <edge source="Systems_theory" target="Self-organized_criticality" />
+    <edge source="Systems_theory" target="Herd_mentality" />
+    <edge source="Systems_theory" target="Phase_transition" />
+    <edge source="Systems_theory" target="Agent-based_model" />
+    <edge source="Systems_theory" target="Synchronization" />
+    <edge source="Systems_theory" target="Ant_colony_optimization_algorithms" />
+    <edge source="Systems_theory" target="Particle_swarm_optimization" />
+    <edge source="Systems_theory" target="Swarm_behaviour" />
+    <edge source="Systems_theory" target="Social_network_analysis" />
+    <edge source="Systems_theory" target="Small-world_network" />
+    <edge source="Systems_theory" target="Centrality" />
+    <edge source="Systems_theory" target="Network_motif" />
+    <edge source="Systems_theory" target="Graph_theory" />
+    <edge source="Systems_theory" target="Scalability" />
+    <edge source="Systems_theory" target="Systems_biology" />
+    <edge source="Systems_theory" target="Dynamic_network_analysis" />
+    <edge source="Systems_theory" target="Evolutionary_computation" />
+    <edge source="Systems_theory" target="Genetic_algorithm" />
+    <edge source="Hierarchy" target="Ancient_Greek_language" />
+    <edge source="Hierarchy" target="Systems_theory" />
+    <edge source="Hierarchy" target="Graph_theory" />
+    <edge source="War_of_currents" target="Electric_power_transmission" />
+    <edge source="War_of_currents" target="Arc_lamp" />
+    <edge source="War_of_currents" target="Incandescent_lamp" />
+    <edge source="War_of_currents" target="Thomas_Edison" />
+    <edge source="War_of_currents" target="George_Westinghouse" />
+    <edge source="War_of_currents" target="Gas_lighting" />
+    <edge source="Structural_load" target="Structure" />
+    <edge source="Structural_load" target="Aircraft" />
+    <edge source="Zigbee" target="Personal_area_network" />
+    <edge source="Zigbee" target="Bluetooth" />
+    <edge source="Zigbee" target="Wi-Fi" />
+    <edge source="Zigbee" target="Li-Fi" />
+    <edge source="General_systems_theory" target="Collective_intelligence" />
+    <edge source="General_systems_theory" target="Collective_action" />
+    <edge source="General_systems_theory" target="Self-organized_criticality" />
+    <edge source="General_systems_theory" target="Herd_mentality" />
+    <edge source="General_systems_theory" target="Phase_transition" />
+    <edge source="General_systems_theory" target="Agent-based_model" />
+    <edge source="General_systems_theory" target="Synchronization" />
+    <edge source="General_systems_theory" target="Ant_colony_optimization_algorithms" />
+    <edge source="General_systems_theory" target="Particle_swarm_optimization" />
+    <edge source="General_systems_theory" target="Swarm_behaviour" />
+    <edge source="General_systems_theory" target="Social_network_analysis" />
+    <edge source="General_systems_theory" target="Small-world_network" />
+    <edge source="General_systems_theory" target="Centrality" />
+    <edge source="General_systems_theory" target="Network_motif" />
+    <edge source="General_systems_theory" target="Graph_theory" />
+    <edge source="General_systems_theory" target="Scalability" />
+    <edge source="General_systems_theory" target="Systems_biology" />
+    <edge source="General_systems_theory" target="Dynamic_network_analysis" />
+    <edge source="General_systems_theory" target="Evolutionary_computation" />
+    <edge source="General_systems_theory" target="Genetic_algorithm" />
+    <edge source="Ciphertext" target="Cryptography" />
+    <edge source="Ciphertext" target="Encryption" />
+    <edge source="Ciphertext" target="Plaintext" />
+    <edge source="Ciphertext" target="Cipher" />
+    <edge source="Ciphertext" target="Algorithm" />
+    <edge source="Ultra-wideband" target="Personal_area_network" />
+    <edge source="Smart_thermostat" target="Wi-Fi" />
+    <edge source="Utility_pole" target="Electric_power_transmission" />
+    <edge source="Utility_pole" target="Electric_power_distribution" />
+    <edge source="Utility_pole" target="Electrical_substation" />
+    <edge source="Utility_pole" target="Volt" />
+    <edge source="Smart_keychain" target="Access_control" />
+    <edge source="Smart_keychain" target="Software" />
+    <edge source="Systems_biology" target="Complex_network" />
+    <edge source="Thermodynamics" target="Energy" />
+    <edge source="Thermodynamics" target="Steam_engine" />
+    <edge source="Thermodynamics" target="Nicolas_L%C3%A9onard_Sadi_Carnot" />
+    <edge source="Hacktivist" target="Human_rights" />
+    <edge source="Phablet" target="Smartphone" />
+    <edge source="Security_controls" target="Security" />
+    <edge source="Security_controls" target="NIST" />
+    <edge source="Norbert_Wiener" target="MIT" />
+    <edge source="Norbert_Wiener" target="Control_system" />
+    <edge source="Norbert_Wiener" target="Cybernetics" />
+    <edge source="Small-world_network" target="Social_network_analysis" />
+    <edge source="Evolutionary_computation" target="Algorithm" />
+    <edge source="Nickel_silver" target="Brass" />
+    <edge source="ANT_(network)" target="Personal_area_network" />
+    <edge source="Ransomware" target="Malware" />
+    <edge source="Ransomware" target="Encryption" />
+    <edge source="Ransomware" target="Symmetric-key_algorithm" />
+    <edge source="Greek_language" target="Modern_Greek" />
+    <edge source="Greek_language" target="Romanization_of_Greek" />
+    <edge source="Greek_language" target="Ancient_Greek_language" />
+    <edge source="Greek_language" target="Romanization_of_Ancient_Greek" />
+    <edge source="Greek_language" target="Hellenic_languages" />
+    <edge source="Greek_language" target="Egypt" />
+    <edge source="Near-field_communication" target="Smartphone" />
+    <edge source="Near-field_communication" target="Personal_area_network" />
+    <edge source="Near-field_communication" target="Radio-frequency_identification" />
+    <edge source="Near-field_communication" target="Wi-Fi" />
+    <edge source="Computer_security" target="System" />
+    <edge source="Computer_security" target="Threat_(security)" />
+    <edge source="Computer_security" target="Software" />
+    <edge source="Computer_security" target="Service_(economics)" />
+    <edge source="Computer_security" target="Wireless_network_standards" />
+    <edge source="Computer_security" target="Smart_device" />
+    <edge source="Computer_security" target="Smartphone" />
+    <edge source="Computer_security" target="Electric_power_distribution" />
+    <edge source="Computer_security" target="Election_security" />
+    <edge source="Computer_security" target="Finance" />
+    <edge source="Computer_security" target="Passwords" />
+    <edge source="Computer_security" target="Encryption" />
+    <edge source="Computer_security" target="Physical_security" />
+    <edge source="Computer_security" target="Lock_and_key" />
+    <edge source="Computer_security" target="Security_convergence" />
+    <edge source="Computer_security" target="Common_Vulnerabilities_and_Exposures" />
+    <edge source="Computer_security" target="Cyberattack" />
+    <edge source="Computer_security" target="Automated_threat" />
+    <edge source="Computer_security" target="Small_and_medium-sized_enterprises" />
+    <edge source="Computer_security" target="Man-in-the-middle_attack" />
+    <edge source="Network_motif" target="Complex_network" />
+    <edge source="Passive_attack" target="Ciphertext" />
+    <edge source="Passive_attack" target="Plaintext" />
+    <edge source="4G" target="3G" />
+    <edge source="4G" target="2G" />
+    <edge source="Futures_contract" target="Financial_instrument" />
+    <edge source="Personal_area_network" target="Smartphone" />
+    <edge source="Personal_area_network" target="Wireless_USB" />
+    <edge source="Personal_area_network" target="Bluetooth" />
+    <edge source="Personal_area_network" target="NearLink" />
+    <edge source="Personal_area_network" target="Zigbee" />
+    <edge source="Personal_area_network" target="Smartwatch" />
+    <edge source="Synchronization" target="System" />
+    <edge source="Synchronization" target="Time" />
+    <edge source="Smart_speaker" target="Wi-Fi" />
+    <edge source="Smart_speaker" target="Bluetooth" />
+    <edge source="Subtransmission" target="Electrical_substation" />
+    <edge source="Subtransmission" target="Electric_power_distribution" />
+    <edge source="Complex_network" target="Hierarchy" />
+    <edge source="5G" target="4G" />
+    <edge source="Conflict_of_interest" target="Government" />
+    <edge source="Common_Vulnerabilities_and_Exposures" target="Vulnerability_(computing)" />
+    <edge source="Common_Vulnerabilities_and_Exposures" target="The_MITRE_Corporation" />
+    <edge source="Common_Vulnerabilities_and_Exposures" target="National_Cyber_Security_Division" />
+    <edge source="Common_Vulnerabilities_and_Exposures" target="US_Department_of_Homeland_Security" />
+    <edge source="Common_Vulnerabilities_and_Exposures" target="Security_Content_Automation_Protocol" />
+    <edge source="Common_Vulnerabilities_and_Exposures" target="Red_Hat" />
+    <edge source="Common_Vulnerabilities_and_Exposures" target="GitHub" />
+    <edge source="Common_Vulnerabilities_and_Exposures" target="Commercial_software" />
+    <edge source="Common_Vulnerabilities_and_Exposures" target="Security_vulnerability" />
+    <edge source="Common_Vulnerabilities_and_Exposures" target="Conflict_of_interest" />
+    <edge source="Barbed_wire" target="Steel" />
+    <edge source="Barbed_wire" target="Fence" />
+    <edge source="Global_Risks_Report" target="World_Economic_Forum" />
+    <edge source="Global_Risks_Report" target="Cyberattack" />
+    <edge source="Dictionary_attack" target="Cipher" />
+    <edge source="Dictionary_attack" target="Passphrase" />
+    <edge source="Dictionary_attack" target="Cryptographic_hash_function" />
+    <edge source="Dictionary_attack" target="Salt_(cryptography)" />
+    <edge source="Electric_power_transmission" target="Electrical_substation" />
+    <edge source="Electric_power_transmission" target="Electric_power_distribution" />
+    <edge source="Accumulation_by_dispossession" target="Privatization" />
+    <edge source="Password" target="User_(computing)" />
+    <edge source="Password" target="Memorized" />
+    <edge source="Password" target="Character_(computing)" />
+    <edge source="Password" target="Passphrase" />
+    <edge source="Password" target="Polybius" />
+    <edge source="Password" target="Military_of_ancient_Rome" />
+    <edge source="Password" target="Maniple_(military_unit)" />
+    <edge source="Password" target="Tribune" />
+    <edge source="Password" target="Invasion_of_Normandy" />
+    <edge source="Password" target="101st_Airborne_Division" />
+    <edge source="Password" target="D-Day" />
+    <edge source="Password" target="Compatible_Time-Sharing_System" />
+    <edge source="Password" target="MIT" />
+    <edge source="Password" target="Robert_Morris_(cryptographer)" />
+    <edge source="Password" target="Unix" />
+    <edge source="Password" target="Crypt_(Unix)" />
+    <edge source="Password" target="Salt_(cryptography)" />
+    <edge source="Password" target="Dictionary_attack" />
+    <edge source="Password" target="Access_control" />
+    <edge source="Password" target="Operating_system" />
+    <edge source="Lock_picking" target="Lock_(security_device)" />
+    <edge source="Lock_picking" target="MIT" />
+    <edge source="Lock_picking" target="Warded_lock" />
+    <edge source="Lock_picking" target="Keyhole" />
+    <edge source="Lock_picking" target="Pin_tumbler_lock" />
+    <edge source="Zero-day_(computing)" target="Threat_actor" />
+    <edge source="Zero-day_(computing)" target="Software" />
+    <edge source="Zero-day_(computing)" target="Software_bug" />
+    <edge source="Zero-day_(computing)" target="Hardware_bug" />
+    <edge source="Zero-day_(computing)" target="Code_injection" />
+    <edge source="Zero-day_(computing)" target="Software_patch" />
+    <edge source="Zero-day_(computing)" target="Malware" />
+    <edge source="Zero-day_(computing)" target="Access_control" />
+    <edge source="NearLink" target="Wireless" />
+    <edge source="NearLink" target="Bluetooth" />
+    <edge source="NearLink" target="Wi-Fi" />
+    <edge source="Romanization_of_Ancient_Greek" target="Modern_Greek" />
+    <edge source="Romanization_of_Ancient_Greek" target="Latin" />
+    <edge source="Radiant_energy" target="Energy" />
+    <edge source="Radiant_energy" target="Time" />
+    <edge source="Red_Hat" target="Operating_system" />
+    <edge source="Red_Hat" target="Business" />
+    <edge source="Red_Hat" target="Unix" />
+    <edge source="Active_defense" target="Encryption" />
+    <edge source="Active_defense" target="Ransomware" />
+    <edge source="Active_defense" target="IP_address" />
+    <edge source="Active_defense" target="NIST" />
+    <edge source="Transport_Layer_Security" target="Cryptography" />
+    <edge source="Secure_channel" target="Cryptography" />
+    <edge source="Secure_channel" target="Key_(cryptography)" />
+    <edge source="Secure_channel" target="Quantum_cryptography" />
+    <edge source="Polybius" target="Ancient_Greek_language" />
+    <edge source="Service_quality" target="Business_administration" />
+    <edge source="Option_(finance)" target="Finance" />
+    <edge source="Option_(finance)" target="Asset" />
+    <edge source="Option_(finance)" target="Financial_instrument" />
+    <edge source="Wireless_local_area_network" target="Wi-Fi" />
+    <edge source="Wireless_local_area_network" target="Smartphone" />
+    <edge source="Lock_and_key" target="Mechanics" />
+    <edge source="Lock_and_key" target="Keycard_lock" />
+    <edge source="Lock_and_key" target="Fingerprint" />
+    <edge source="Lock_and_key" target="Radio-frequency_identification" />
+    <edge source="Lock_and_key" target="Security_token" />
+    <edge source="Lock_and_key" target="Password" />
+    <edge source="Lock_and_key" target="Bit_(key)" />
+    <edge source="Lock_and_key" target="Keyhole" />
+    <edge source="Lock_and_key" target="Brass" />
+    <edge source="Lock_and_key" target="Nickel_silver" />
+    <edge source="Lock_and_key" target="Steel" />
+    <edge source="Lock_and_key" target="Lock_picking" />
+    <edge source="Lock_and_key" target="Nineveh" />
+    <edge source="Lock_and_key" target="Assyria" />
+    <edge source="Lock_and_key" target="Egypt" />
+    <edge source="Lock_and_key" target="Pin_tumbler_lock" />
+    <edge source="Lock_and_key" target="Warded_lock" />
+    <edge source="Lock_and_key" target="Theodorus_of_Samos" />
+    <edge source="Lock_and_key" target="Beguinage" />
+    <edge source="Lock_and_key" target="Lier,_Belgium" />
+    <edge source="Pseudo-random" target="Algorithm" />
+    <edge source="Key_(cryptography)" target="Cryptography" />
+    <edge source="Key_(cryptography)" target="Algorithm" />
+    <edge source="Key_(cryptography)" target="Encryption" />
+    <edge source="Key_(cryptography)" target="Plaintext" />
+    <edge source="Key_(cryptography)" target="Ciphertext" />
+    <edge source="Key_(cryptography)" target="Salt_(cryptography)" />
+    <edge source="Chief_executive_officers" target="Company" />
+    <edge source="Chief_executive_officers" target="Australia" />
+    <edge source="Chief_executive_officers" target="Business_administration" />
+    <edge source="Ludwig_von_Bertalanffy" target="Systems_theory" />
+    <edge source="Ludwig_von_Bertalanffy" target="Cybernetics" />
+    <edge source="Ludwig_von_Bertalanffy" target="Business_administration" />
+    <edge source="Scalability" target="Collective_intelligence" />
+    <edge source="Scalability" target="Collective_action" />
+    <edge source="Scalability" target="Self-organized_criticality" />
+    <edge source="Scalability" target="Herd_mentality" />
+    <edge source="Scalability" target="Phase_transition" />
+    <edge source="Scalability" target="Agent-based_model" />
+    <edge source="Scalability" target="Synchronization" />
+    <edge source="Scalability" target="Ant_colony_optimization_algorithms" />
+    <edge source="Scalability" target="Particle_swarm_optimization" />
+    <edge source="Scalability" target="Swarm_behaviour" />
+    <edge source="Scalability" target="Social_network_analysis" />
+    <edge source="Scalability" target="Small-world_network" />
+    <edge source="Scalability" target="Centrality" />
+    <edge source="Scalability" target="Network_motif" />
+    <edge source="Scalability" target="Graph_theory" />
+    <edge source="Scalability" target="Systems_biology" />
+    <edge source="Scalability" target="Dynamic_network_analysis" />
+    <edge source="Scalability" target="Evolutionary_computation" />
+    <edge source="Scalability" target="Genetic_algorithm" />
+    <edge source="Cryptography_law" target="Cryptography" />
+    <edge source="Cryptography_law" target="France" />
+    <edge source="Cryptography_law" target="Tunisia" />
+    <edge source="Office_building" target="Business_administration" />
+    <edge source="Office_building" target="Bank" />
+    <edge source="Overdetermination" target="Louis_Althusser" />
+    <edge source="Hardware_bug" target="Software_bug" />
+    <edge source="Hardware_bug" target="Software" />
+    <edge source="Public_utility" target="Public_service" />
+    <edge source="Public_utility" target="Communications_system" />
+    <edge source="Public_utility" target="Economies_of_scale" />
+    <edge source="Public_utility" target="Company" />
+    <edge source="Fourth_Industrial_Revolution" target="Klaus_Schwab" />
+    <edge source="Fourth_Industrial_Revolution" target="World_Economic_Forum" />
+    <edge source="Fourth_Industrial_Revolution" target="Capitalism" />
+    <edge source="Fourth_Industrial_Revolution" target="Cyber-physical_system" />
+    <edge source="Fourth_Industrial_Revolution" target="5G" />
+    <edge source="Cyber-physical_system" target="Cybernetics" />
+    <edge source="Competition_(economics)" target="Capitalism" />
+    <edge source="Cyberwarfare" target="Cyberattack" />
+    <edge source="Cyberwarfare" target="Hacktivist" />
+    <edge source="Electric_motor" target="Machine" />
+    <edge source="Cybersecurity_and_Infrastructure_Security_Agency" target="5G" />
+    <edge source="Cybersecurity_and_Infrastructure_Security_Agency" target="Election_security" />
+    <edge source="Jefferson_disk" target="Cipher" />
+    <edge source="Jefferson_disk" target="Thomas_Jefferson" />
+    <edge source="Jefferson_disk" target="Key_(cryptography)" />
+    <edge source="Dynamic_network_analysis" target="Social_network_analysis" />
+    <edge source="Dynamic_network_analysis" target="Time" />
+    <edge source="Dynamic_network_analysis" target="Graph_theory" />
+    <edge source="Alice_and_Bob#Mallory" target="Cryptography" />
+    <edge source="Alice_and_Bob#Mallory" target="Quantum_cryptography" />
+    <edge source="Ant_colony_optimization_algorithms" target="Algorithm" />
+    <edge source="Ant_colony_optimization_algorithms" target="Ant_colony" />
+    <edge source="Quantum_cryptography" target="Encryption" />
+    <edge source="Quantum_cryptography" target="No-cloning_theorem" />
+    <edge source="Utilization_voltage" target="Volt" />
+    <edge source="Lone_wolf_(terrorism)" target="Terrorist" />
+    <edge source="Lone_wolf_(terrorism)" target="United_Nations" />
+    <edge source="Smart_doorbell" target="Smart_lock" />
+    <edge source="Keycard_lock" target="Lock_(security_device)" />
+    <edge source="Keycard_lock" target="Smart_card" />
+    <edge source="Keycard_lock" target="Radio-frequency_identification" />
+    <edge source="Keycard_lock" target="Near-field_communication" />
+    <edge source="Keycard_lock" target="Lock_and_key" />
+    <edge source="Election_security" target="Election" />
+    <edge source="Election_security" target="Cyberattack" />
+    <edge source="Election_security" target="Voting_machines" />
+    <edge source="Election_security" target="Voter_registration" />
+    <edge source="Election_security" target="Jurisdiction" />
+    <edge source="Election_security" target="Nation_state" />
+    <edge source="Election_security" target="Lone_wolf_(terrorism)" />
+    <edge source="Election_security" target="DEF_CON" />
+    <edge source="Election_security" target="Rick_Astley" />
+    <edge source="Election_security" target="Never_Gonna_Give_You_Up" />
+    <edge source="Election_security" target="Harri_Hursti" />
+    <edge source="Election_security" target="Georgia_(U.S._state)" />
+    <edge source="Election_security" target="Ukraine" />
+    <edge source="Election_security" target="Bulgaria" />
+    <edge source="Election_security" target="Estonia" />
+    <edge source="Election_security" target="Germany" />
+    <edge source="Election_security" target="France" />
+    <edge source="Election_security" target="Austria" />
+    <edge source="Election_security" target="U.S._Department_of_Homeland_Security" />
+    <edge source="Election_security" target="Jeh_Johnson" />
+    <edge source="Wireless_network_standards" target="Wireless" />
+    <edge source="Wireless_network_standards" target="Personal_area_network" />
+    <edge source="Wireless_network_standards" target="ANT_(network)" />
+    <edge source="Wireless_network_standards" target="Ultra-wideband" />
+    <edge source="Wireless_network_standards" target="Bluetooth" />
+    <edge source="Wireless_network_standards" target="Zigbee" />
+    <edge source="Wireless_network_standards" target="Wireless_USB" />
+    <edge source="Wireless_network_standards" target="Wireless_Sensor_Networks" />
+    <edge source="Wireless_network_standards" target="6LoWPAN" />
+    <edge source="Wireless_network_standards" target="Wi-Fi" />
+    <edge source="Wireless_network_standards" target="Cellular_networks" />
+    <edge source="Wireless_network_standards" target="Wireless_local_area_network" />
+    <edge source="Wireless_network_standards" target="DECT" />
+    <edge source="Wireless_network_standards" target="HIPERLAN" />
+    <edge source="Wireless_network_standards" target="Wide_area_network" />
+    <edge source="Wireless_network_standards" target="Base_station" />
+    <edge source="Wireless_network_standards" target="2G" />
+    <edge source="Wireless_network_standards" target="3G" />
+    <edge source="Wireless_network_standards" target="4G" />
+    <edge source="Wireless_network_standards" target="GSM" />
+    <edge source="Wide_area_network" target="Wi-Fi" />
+    <edge source="Asset" target="Resource" />
+    <edge source="Asset" target="Business" />
+    <edge source="Bit_(key)" target="Pin_tumbler_lock" />
+    <edge source="Bit_(key)" target="Warded_lock" />
+    <edge source="Robert_Morris_(cryptographer)" target="Unix" />
+    <edge source="Robert_Morris_(cryptographer)" target="Crypt_(Unix)" />
+    <edge source="Electric_power_distribution" target="Power_delivery" />
+    <edge source="Electric_power_distribution" target="Electric_power_transmission" />
+    <edge source="Electric_power_distribution" target="Electrical_substation" />
+    <edge source="Electric_power_distribution" target="Volt" />
+    <edge source="Electric_power_distribution" target="Utilization_voltage" />
+    <edge source="Electric_power_distribution" target="Service_drop" />
+    <edge source="Electric_power_distribution" target="Subtransmission" />
+    <edge source="Electric_power_distribution" target="Common_utility_duct" />
+    <edge source="Electric_power_distribution" target="Utility_pole" />
+    <edge source="Electric_power_distribution" target="Power_stations" />
+    <edge source="Electric_power_distribution" target="Arc_lamp" />
+    <edge source="Electric_power_distribution" target="Incandescent_lamp" />
+    <edge source="Electric_power_distribution" target="Gas_lighting" />
+    <edge source="Electric_power_distribution" target="Pearl_Street_Station" />
+    <edge source="Electric_power_distribution" target="Economies_of_scale" />
+    <edge source="Electric_power_distribution" target="War_of_currents" />
+    <edge source="Electric_power_distribution" target="Thomas_Edison" />
+    <edge source="Electric_power_distribution" target="George_Westinghouse" />
+    <edge source="Electric_power_distribution" target="Electric_motor" />
+    <edge source="Electric_power_distribution" target="Electric_power_industry" />
+    <edge source="Voter_registration" target="Jurisdiction" />
+    <edge source="Voter_registration" target="Australia" />
+    <edge source="Swap_(finance)" target="Finance" />
+    <edge source="Swap_(finance)" target="Futures_contract" />
+    <edge source="Swap_(finance)" target="Option_(finance)" />
+    <edge source="Swap_(finance)" target="World_Bank" />
+    <edge source="Loan" target="Finance" />
+    <edge source="Loan" target="Money" />
+    <edge source="Loan" target="Asset" />
+    <edge source="Loan" target="Bank" />
+    <edge source="Loan" target="Bond_(finance)" />
+    <edge source="World_Bank" target="Germany" />
+    <edge source="World_Bank" target="France" />
+    <edge source="Bond_(finance)" target="Finance" />
+    <edge source="Bond_(finance)" target="Loan" />
+    <edge source="Frequency_analysis" target="Ciphertext" />
+    <edge source="Frequency_analysis" target="Plaintext" />
+    <edge source="Frequency_analysis" target="Alice_and_Bob" />
+    <edge source="Frequency_analysis" target="Al-Kindi" />
+    <edge source="Commercial_software" target="Software" />
+    <edge source="Election" target="Business" />
+    <edge source="Network_eavesdropping" target="Man-in-the-middle_attack" />
+    <edge source="Accident" target="Risk_management" />
+    <edge source="Security_vulnerability" target="Software_bug" />
+    <edge source="Security_vulnerability" target="Confidentiality" />
+    <edge source="Security_vulnerability" target="Availability" />
+    <edge source="Security_vulnerability" target="Common_Vulnerabilities_and_Exposures" />
+    <edge source="Security_vulnerability" target="Code_injection" />
+    <edge source="Security_vulnerability" target="Malware" />
+    <edge source="Security_vulnerability" target="Physical_security" />
+    <edge source="HTTP_Public_Key_Pinning" target="Certificate_authority" />
+    <edge source="HTTP_Public_Key_Pinning" target="Public-key_cryptography" />
+    <edge source="HTTP_Public_Key_Pinning" target="Cryptographic_hash_function" />
+    <edge source="Open_system_(systems_theory)" target="Isolated_system" />
+    <edge source="Open_system_(systems_theory)" target="Organismic_theory" />
+    <edge source="Open_system_(systems_theory)" target="Thermodynamics" />
+    <edge source="Open_system_(systems_theory)" target="Theory_of_Evolution" />
+    <edge source="Open_system_(systems_theory)" target="Systems_theory" />
+    <edge source="Open_system_(systems_theory)" target="Energy" />
+    <edge source="Open_system_(systems_theory)" target="Mass" />
+    <edge source="Open_system_(systems_theory)" target="Closed_system" />
+    <edge source="Open_system_(systems_theory)" target="Radiant_energy" />
+    <edge source="Open_system_(systems_theory)" target="Solar_radiation" />
+    <edge source="Open_system_(systems_theory)" target="Kostas_Axelos" />
+    <edge source="Open_system_(systems_theory)" target="World-systems_theory" />
+    <edge source="Open_system_(systems_theory)" target="Praxis_intervention" />
+    <edge source="Open_system_(systems_theory)" target="Louis_Althusser" />
+    <edge source="Open_system_(systems_theory)" target="Overdetermination" />
+    <edge source="Open_system_(systems_theory)" target="David_Harvey_(geographer)" />
+    <edge source="Open_system_(systems_theory)" target="Capitalism" />
+    <edge source="Open_system_(systems_theory)" target="Foreign_direct_investment" />
+    <edge source="Open_system_(systems_theory)" target="Privatization" />
+    <edge source="Open_system_(systems_theory)" target="Accumulation_by_dispossession" />
+    <edge source="Business_administration" target="Business" />
+    <edge source="Business_administration" target="Finance" />
+    <edge source="Mutual_authentication" target="Transport_Layer_Security" />
+    <edge source="Mutual_authentication" target="Password" />
+    <edge source="Mutual_authentication" target="Alice_and_Bob" />
+    <edge source="Security_lighting" target="Physical_security" />
+    <edge source="National_Cyber_Security_Division" target="Cybersecurity_and_Infrastructure_Security_Agency" />
+    <edge source="CCTV" target="Wireless" />
+    <edge source="GSM" target="2G" />
+    <edge source="GSM" target="3G" />
+    <edge source="GSM" target="4G" />
+    <edge source="GSM" target="5G" />
+    <edge source="George_Westinghouse" target="Thomas_Edison" />
+    <edge source="Isolated_system" target="Closed_system" />
+    <edge source="Isolated_system" target="Thermodynamics" />
+    <edge source="ZRTP" target="Key-agreement_protocol" />
+    <edge source="ZRTP" target="Key_(cryptography)" />
+    <edge source="ZRTP" target="Encryption" />
+    <edge source="ZRTP" target="Public_key_infrastructure" />
+    <edge source="ZRTP" target="Man-in-the-middle_attack" />
+    <edge source="Stock" target="Share_(finance)" />
+    <edge source="Stock" target="Business" />
+    <edge source="Software_patch" target="Software_bug" />
+    <edge source="Software_patch" target="Security_vulnerability" />
+    <edge source="Man-in-the-middle_attack" target="Cryptography" />
+    <edge source="Man-in-the-middle_attack" target="Cyberattack" />
+    <edge source="Man-in-the-middle_attack" target="Network_eavesdropping" />
+    <edge source="Man-in-the-middle_attack" target="Wireless_access_point" />
+    <edge source="Man-in-the-middle_attack" target="Transport_Layer_Security" />
+    <edge source="Man-in-the-middle_attack" target="Alice_and_Bob" />
+    <edge source="Man-in-the-middle_attack" target="Alice_and_Bob#Mallory" />
+    <edge source="Man-in-the-middle_attack" target="Secure_channel" />
+    <edge source="Man-in-the-middle_attack" target="Key-agreement_protocol" />
+    <edge source="Man-in-the-middle_attack" target="Public_key_infrastructure" />
+    <edge source="Man-in-the-middle_attack" target="Transmission_Control_Protocol" />
+    <edge source="Man-in-the-middle_attack" target="Certificate_authority" />
+    <edge source="Man-in-the-middle_attack" target="Mutual_authentication" />
+    <edge source="Man-in-the-middle_attack" target="ZRTP" />
+    <edge source="Man-in-the-middle_attack" target="HTTP_Public_Key_Pinning" />
+    <edge source="Man-in-the-middle_attack" target="Domain_Name_System_Security_Extensions" />
+    <edge source="Man-in-the-middle_attack" target="IP_address" />
+    <edge source="Man-in-the-middle_attack" target="Cryptographic_hash_function" />
+    <edge source="Man-in-the-middle_attack" target="Quantum_cryptography" />
+    <edge source="Man-in-the-middle_attack" target="No-cloning_theorem" />
+    <edge source="Symmetric-key_algorithm" target="Algorithm" />
+    <edge source="Symmetric-key_algorithm" target="Cryptography" />
+    <edge source="Symmetric-key_algorithm" target="Key_(cryptography)" />
+    <edge source="Symmetric-key_algorithm" target="Plaintext" />
+    <edge source="Symmetric-key_algorithm" target="Ciphertext" />
+    <edge source="Symmetric-key_algorithm" target="Public-key_cryptography" />
+    <edge source="Symmetric-key_algorithm" target="NIST" />
+    <edge source="Wireless_access_point" target="Bluetooth" />
+    <edge source="Malware" target="Software" />
+    <edge source="Malware" target="Ransomware" />
+    <edge source="Currency" target="Money" />
+    <edge source="Currency" target="Payment" />
+    <edge source="Currency" target="Government" />
+    <edge source="Self-organized_criticality" target="Collective_intelligence" />
+    <edge source="Self-organized_criticality" target="Collective_action" />
+    <edge source="Self-organized_criticality" target="Herd_mentality" />
+    <edge source="Self-organized_criticality" target="Phase_transition" />
+    <edge source="Self-organized_criticality" target="Agent-based_model" />
+    <edge source="Self-organized_criticality" target="Synchronization" />
+    <edge source="Self-organized_criticality" target="Ant_colony_optimization_algorithms" />
+    <edge source="Self-organized_criticality" target="Particle_swarm_optimization" />
+    <edge source="Self-organized_criticality" target="Swarm_behaviour" />
+    <edge source="Self-organized_criticality" target="Social_network_analysis" />
+    <edge source="Self-organized_criticality" target="Small-world_network" />
+    <edge source="Self-organized_criticality" target="Centrality" />
+    <edge source="Self-organized_criticality" target="Network_motif" />
+    <edge source="Self-organized_criticality" target="Graph_theory" />
+    <edge source="Self-organized_criticality" target="Scalability" />
+    <edge source="Self-organized_criticality" target="Systems_biology" />
+    <edge source="Self-organized_criticality" target="Dynamic_network_analysis" />
+    <edge source="Self-organized_criticality" target="Evolutionary_computation" />
+    <edge source="Self-organized_criticality" target="Genetic_algorithm" />
+    <edge source="Encryption" target="Cryptography_law" />
+    <edge source="Encryption" target="Code" />
+    <edge source="Encryption" target="Idealism" />
+    <edge source="Encryption" target="Plaintext" />
+    <edge source="Encryption" target="Ciphertext" />
+    <edge source="Encryption" target="Pseudo-random" />
+    <edge source="Encryption" target="Key_(cryptography)" />
+    <edge source="Encryption" target="Algorithm" />
+    <edge source="Encryption" target="Public-key_cryptography" />
+    <edge source="Encryption" target="Symmetric-key_algorithm" />
+    <edge source="Encryption" target="Khnumhotep_II" />
+    <edge source="Encryption" target="Caesar_cipher" />
+    <edge source="Encryption" target="Al-Kindi" />
+    <edge source="Encryption" target="Frequency_analysis" />
+    <edge source="Encryption" target="Cipher" />
+    <edge source="Encryption" target="Polyalphabetic_cipher" />
+    <edge source="Encryption" target="Al-Qalqashandi" />
+    <edge source="Encryption" target="Leon_Battista_Alberti" />
+    <edge source="Encryption" target="Thomas_Jefferson" />
+    <edge source="Encryption" target="Jefferson_disk" />
+    <edge source="Corporate_finance" target="Finance" />
+    <edge source="CIA_triad" target="Risk_management" />
+    <edge source="CIA_triad" target="Password" />
+    <edge source="CIA_triad" target="Business_continuity_planning" />
+    <edge source="Public_finance" target="Government" />
+    <edge source="Public_finance" target="Economies_of_scale" />
+    <edge source="Public-key_cryptography" target="Algorithm" />
+    <edge source="Public-key_cryptography" target="Transport_Layer_Security" />
+    <edge source="Public-key_cryptography" target="Secure_channel" />
+    <edge source="Cryptographic_hash_function" target="Cryptography" />
+    <edge source="World_Bank_Group" target="Germany" />
+    <edge source="World_Bank_Group" target="France" />
+    <edge source="6LoWPAN" target="Wireless" />
+    <edge source="6LoWPAN" target="Zigbee" />
+    <edge source="Rudolf_Clausius" target="Thermodynamics" />
+    <edge source="Rudolf_Clausius" target="Nicolas_L%C3%A9onard_Sadi_Carnot" />
+    <edge source="Emergency_management" target="ASIS_International" />
+    <edge source="Emergency_management" target="Earthquake" />
+    <edge source="Emergency_management" target="Natural_disaster" />
+    <edge source="Theodorus_of_Samos" target="Greek_language" />
+    <edge source="Theodorus_of_Samos" target="Lock_and_key" />
+    <edge source="Vulnerability_(computing)" target="Software_bug" />
+    <edge source="Vulnerability_(computing)" target="Confidentiality" />
+    <edge source="Vulnerability_(computing)" target="Availability" />
+    <edge source="Vulnerability_(computing)" target="Common_Vulnerabilities_and_Exposures" />
+    <edge source="Vulnerability_(computing)" target="Code_injection" />
+    <edge source="Vulnerability_(computing)" target="Malware" />
+    <edge source="Vulnerability_(computing)" target="Physical_security" />
+    <edge source="Security_convergence" target="Physical_security" />
+    <edge source="Security_convergence" target="Risk_management" />
+    <edge source="Security_convergence" target="Business_continuity_planning" />
+    <edge source="Security_convergence" target="Emergency_management" />
+    <edge source="Security_convergence" target="Cybersecurity_and_Infrastructure_Security_Agency" />
+    <edge source="Security_convergence" target="Fourth_Industrial_Revolution" />
+    <edge source="Security_convergence" target="World_Economic_Forum" />
+    <edge source="Security_convergence" target="Klaus_Schwab" />
+    <edge source="Security_convergence" target="Cyber-physical_system" />
+    <edge source="Security_convergence" target="Gartner" />
+    <edge source="Security_convergence" target="ASIS_International" />
+    <edge source="Security_convergence" target="ISSA_(professional_organization)" />
+    <edge source="Security_convergence" target="Global_Risks_Report" />
+    <edge source="Security_convergence" target="Stuxnet" />
+    <edge source="Security_convergence" target="Natanz" />
+    <edge source="Security_convergence" target="December_2015_Ukraine_power_grid_cyberattack" />
+    <edge source="Security_convergence" target="Physical_infrastructure" />
+    <edge source="Security_convergence" target="PricewaterhouseCoopers" />
+    <edge source="Security_convergence" target="Jay_Wright_Forrester" />
+    <edge source="Security_convergence" target="Systems_thinking" />
+    <edge source="Small_and_medium-sized_enterprises" target="Business" />
+    <edge source="Small_and_medium-sized_enterprises" target="Personnel" />
+    <edge source="Small_and_medium-sized_enterprises" target="World_Bank" />
+    <edge source="Small_and_medium-sized_enterprises" target="OECD" />
+    <edge source="Small_and_medium-sized_enterprises" target="United_Nations" />
+    <edge source="Small_and_medium-sized_enterprises" target="World_Trade_Organization" />
+    <edge source="Small_and_medium-sized_enterprises" target="Australia" />
+    <edge source="Small_and_medium-sized_enterprises" target="GDP" />
+    <edge source="Small_and_medium-sized_enterprises" target="Chile" />
+    <edge source="Small_and_medium-sized_enterprises" target="Tunisia" />
+    <edge source="Small_and_medium-sized_enterprises" target="Innovation" />
+    <edge source="Small_and_medium-sized_enterprises" target="Competition_(economics)" />
+    <edge source="Small_and_medium-sized_enterprises" target="Economic_sector" />
+    <edge source="Small_and_medium-sized_enterprises" target="World_Bank_Group" />
+    <edge source="Small_and_medium-sized_enterprises" target="Chief_executive_officers" />
+    <edge source="Small_and_medium-sized_enterprises" target="Knowledge-based_economy" />
+    <edge source="Small_and_medium-sized_enterprises" target="Africa" />
+    <edge source="Small_and_medium-sized_enterprises" target="African_countries" />
+    <edge source="Small_and_medium-sized_enterprises" target="Banking_in_Africa" />
+    <edge source="Small_and_medium-sized_enterprises" target="Non-performing_loan" />
+    <edge source="Common_utility_duct" target="Utility_pole" />
+    <edge source="Common_utility_duct" target="Earthquake" />
+    <edge source="Li-Fi" target="Wireless" />
+    <edge source="Li-Fi" target="Wi-Fi" />
+    <edge source="Service_(economics)" target="Consumer" />
+    <edge source="Service_(economics)" target="Company" />
+    <edge source="Service_(economics)" target="Government" />
+    <edge source="Service_(economics)" target="Payment" />
+    <edge source="Service_(economics)" target="Public_service" />
+    <edge source="Service_(economics)" target="Resource" />
+    <edge source="Service_(economics)" target="Intangible_good" />
+    <edge source="Service_(economics)" target="Intangible_goods" />
+    <edge source="Service_(economics)" target="Durable_goods" />
+    <edge source="Service_(economics)" target="Terminology" />
+    <edge source="Service_(economics)" target="Heterogeneity_in_economics" />
+    <edge source="Service_(economics)" target="Service_quality" />
+    <edge source="Service_(economics)" target="Public_utility" />
+    <edge source="Service_(economics)" target="Season" />
+    <edge source="Service_(economics)" target="Time" />
+    <edge source="Service_(economics)" target="Business_cycle" />
+    <edge source="Service_(economics)" target="MECE_principle" />
+    <edge source="Service_(economics)" target="List_of_business_theorists" />
+    <edge source="Service_(economics)" target="Dramaturgy" />
+    <edge source="Service_(economics)" target="Stage_(theatre)" />
+    <edge source="Threat_(security)" target="Vulnerability_(computing)" />
+    <edge source="Threat_(security)" target="Intention" />
+    <edge source="Threat_(security)" target="Accident" />
+    <edge source="Threat_(security)" target="Natural_disaster" />
+    <edge source="Threat_(security)" target="Earthquake" />
+    <edge source="Threat_(security)" target="Fire" />
+    <edge source="Threat_(security)" target="Tornado" />
+    <edge source="Threat_(security)" target="Threat_actor" />
+    <edge source="Threat_(security)" target="NIST" />
+    <edge source="Threat_(security)" target="The_Open_Group" />
+    <edge source="Threat_(security)" target="Confidentiality" />
+    <edge source="Threat_(security)" target="Integrity" />
+    <edge source="Threat_(security)" target="Availability" />
+    <edge source="Threat_(security)" target="CIA_triad" />
+    <edge source="Threat_(security)" target="Attack_(computing)" />
+    <edge source="Threat_(security)" target="Passive_attack" />
+    <edge source="Threat_(security)" target="OWASP" />
+    <edge source="Threat_(security)" target="Security_controls" />
+    <edge source="Threat_(security)" target="Risk_management" />
+    <edge source="Threat_(security)" target="Risk_factor_(computing)" />
+    <edge source="Public_service" target="Service_(economics)" />
+    <edge source="Public_service" target="Election" />
+    <edge source="Public_service" target="Public_finance" />
+    <edge source="Public_service" target="Economic_sector" />
+    <edge source="Crime_prevention_through_environmental_design" target="Security" />
+    <edge source="Non-performing_loan" target="Loan" />
+    <edge source="DECT" target="Australia" />
+    <edge source="Passphrase" target="Password" />
+    <edge source="Passphrase" target="Cryptography" />
+    <edge source="Passphrase" target="Encryption" />
+    <edge source="Passphrase" target="NIST" />
+    <edge source="Passphrase" target="Dictionary_attack" />
+    <edge source="Passphrase" target="Key_(cryptography)" />
+    <edge source="Passphrase" target="Salt_(cryptography)" />
+    <edge source="ISSA_(professional_organization)" target="Security_controls" />
+    <edge source="GDP" target="Money" />
+    <edge source="GDP" target="OECD" />
+    <edge source="Alice_and_Bob" target="Cryptography" />
+    <edge source="Alice_and_Bob" target="Quantum_cryptography" />
+    <edge source="Finance" target="Academic_discipline" />
+    <edge source="Finance" target="Money" />
+    <edge source="Finance" target="Currency" />
+    <edge source="Finance" target="Asset" />
+    <edge source="Finance" target="Liability_(financial_accounting)" />
+    <edge source="Finance" target="Business_administration" />
+    <edge source="Finance" target="Financial_system" />
+    <edge source="Finance" target="Personal_finance" />
+    <edge source="Finance" target="Corporate_finance" />
+    <edge source="Finance" target="Public_finance" />
+    <edge source="Finance" target="Financial_instrument" />
+    <edge source="Finance" target="Loan" />
+    <edge source="Finance" target="Bond_(finance)" />
+    <edge source="Finance" target="Share_(finance)" />
+    <edge source="Finance" target="Stock" />
+    <edge source="Finance" target="Option_(finance)" />
+    <edge source="Finance" target="Futures_contract" />
+    <edge source="Finance" target="Swap_(finance)" />
+    <edge source="Finance" target="Bank" />
+    <edge source="Finance" target="Investment" />
+    <edge source="Smart_glasses" target="Wi-Fi" />
+    <edge source="Smart_glasses" target="Bluetooth" />
+    <edge source="Smart_glasses" target="Smartphone" />
+    <edge source="3G" target="2G" />
+    <edge source="3G" target="GSM" />
+    <edge source="3G" target="Smartphone" />
+    <edge source="System" target="Open_system_(systems_theory)" />
+    <edge source="System" target="Structure" />
+    <edge source="System" target="Systems_theory" />
+    <edge source="System" target="Latin" />
+    <edge source="System" target="Greek_language" />
+    <edge source="System" target="Nicolas_L%C3%A9onard_Sadi_Carnot" />
+    <edge source="System" target="Thermodynamics" />
+    <edge source="System" target="Steam_engine" />
+    <edge source="System" target="Rudolf_Clausius" />
+    <edge source="System" target="Environment_(systems)" />
+    <edge source="System" target="Ludwig_von_Bertalanffy" />
+    <edge source="System" target="General_systems_theory" />
+    <edge source="System" target="Norbert_Wiener" />
+    <edge source="System" target="Ross_Ashby" />
+    <edge source="System" target="Control_system" />
+    <edge source="System" target="Communications_system" />
+    <edge source="System" target="Cybernetics" />
+    <edge source="System" target="Marshall_McLuhan" />
+    <edge source="System" target="Theory" />
+    <edge source="System" target="Media_theory" />
+    <edge source="Cybernetics" target="Collective_intelligence" />
+    <edge source="Cybernetics" target="Collective_action" />
+    <edge source="Cybernetics" target="Self-organized_criticality" />
+    <edge source="Cybernetics" target="Herd_mentality" />
+    <edge source="Cybernetics" target="Phase_transition" />
+    <edge source="Cybernetics" target="Agent-based_model" />
+    <edge source="Cybernetics" target="Synchronization" />
+    <edge source="Cybernetics" target="Ant_colony_optimization_algorithms" />
+    <edge source="Cybernetics" target="Particle_swarm_optimization" />
+    <edge source="Cybernetics" target="Swarm_behaviour" />
+    <edge source="Cybernetics" target="Social_network_analysis" />
+    <edge source="Cybernetics" target="Small-world_network" />
+    <edge source="Cybernetics" target="Centrality" />
+    <edge source="Cybernetics" target="Network_motif" />
+    <edge source="Cybernetics" target="Graph_theory" />
+    <edge source="Cybernetics" target="Scalability" />
+    <edge source="Cybernetics" target="Systems_biology" />
+    <edge source="Cybernetics" target="Dynamic_network_analysis" />
+    <edge source="Cybernetics" target="Evolutionary_computation" />
+    <edge source="Cybernetics" target="Genetic_algorithm" />
+    <edge source="Risk_assessment" target="Risk_management" />
+    <edge source="Risk_assessment" target="Systems_theory" />
+    <edge source="Public_key_infrastructure" target="Public-key_cryptography" />
+    <edge source="Public_key_infrastructure" target="Cryptography" />
+    <edge source="Public_key_infrastructure" target="Certificate_authority" />
+    <edge source="Public_key_infrastructure" target="Transport_Layer_Security" />
+    <edge source="Public_key_infrastructure" target="Availability" />
+    <edge source="Wireless_USB" target="Wireless" />
+    <edge source="Wireless_USB" target="Wi-Fi" />
+    <edge source="Business_continuity_planning" target="Risk_management" />
+    <edge source="Financial_system" target="Money" />
+    <edge source="Financial_system" target="Finance" />
+    <edge source="Financial_system" target="Service_(economics)" />
+    <edge source="Financial_system" target="Bank" />
+    <edge source="Financial_system" target="Investment" />
+    <edge source="Electric_power_industry" target="Electric_power_transmission" />
+    <edge source="Electric_power_industry" target="Electric_power_distribution" />
+    <edge source="Electric_power_industry" target="Thomas_Edison" />
+    <edge source="Personal_finance" target="Loan" />
+    <edge source="Personal_finance" target="Bond_(finance)" />
+    <edge source="Passwords" target="User_(computing)" />
+    <edge source="Passwords" target="Memorized" />
+    <edge source="Passwords" target="Character_(computing)" />
+    <edge source="Passwords" target="Passphrase" />
+    <edge source="Passwords" target="Polybius" />
+    <edge source="Passwords" target="Military_of_ancient_Rome" />
+    <edge source="Passwords" target="Maniple_(military_unit)" />
+    <edge source="Passwords" target="Tribune" />
+    <edge source="Passwords" target="Invasion_of_Normandy" />
+    <edge source="Passwords" target="101st_Airborne_Division" />
+    <edge source="Passwords" target="D-Day" />
+    <edge source="Passwords" target="Compatible_Time-Sharing_System" />
+    <edge source="Passwords" target="MIT" />
+    <edge source="Passwords" target="Robert_Morris_(cryptographer)" />
+    <edge source="Passwords" target="Unix" />
+    <edge source="Passwords" target="Crypt_(Unix)" />
+    <edge source="Passwords" target="Salt_(cryptography)" />
+    <edge source="Passwords" target="Dictionary_attack" />
+    <edge source="Passwords" target="Access_control" />
+    <edge source="Passwords" target="Operating_system" />
+    <edge source="Cyberattack" target="CIA_triad" />
+    <edge source="Cyberattack" target="Software_bug" />
+    <edge source="Cyberattack" target="Hacktivist" />
+    <edge source="Cyberattack" target="Malware" />
+    <edge source="Cyberattack" target="Identity_theft" />
+    <edge source="Cyberattack" target="Cyberwarfare" />
+    <edge source="Cyberattack" target="Ransomware" />
+    <edge source="Cyberattack" target="Software_bugs" />
+    <edge source="Cyberattack" target="Hardware_bug" />
+    <edge source="Cyberattack" target="Vulnerability_(computing)" />
+    <edge source="Cyberattack" target="Software_patch" />
+    <edge source="Cyberattack" target="Zero-day_(computing)" />
+    <edge source="Cyberattack" target="Code_injection" />
+    <edge source="Cyberattack" target="Hardening_(computing)" />
+    <edge source="Cyberattack" target="Risk_assessment" />
+    <edge source="Cyberattack" target="Active_defense" />
+    <edge source="Cyberattack" target="Cyber_resilience" />
+    <edge source="Cyberattack" target="Micro-segmentation" />
+    <edge source="Cyberattack" target="Zero_trust" />
+    <edge source="Cyberattack" target="Business_continuity_planning" />
+    <edge source="Hardening_(computing)" target="User_(computing)" />
+    <edge source="Environment_(systems)" target="Isolated_system" />
+    <edge source="Environment_(systems)" target="Organismic_theory" />
+    <edge source="Environment_(systems)" target="Thermodynamics" />
+    <edge source="Environment_(systems)" target="Theory_of_Evolution" />
+    <edge source="Environment_(systems)" target="Systems_theory" />
+    <edge source="Environment_(systems)" target="Energy" />
+    <edge source="Environment_(systems)" target="Mass" />
+    <edge source="Environment_(systems)" target="Closed_system" />
+    <edge source="Environment_(systems)" target="Radiant_energy" />
+    <edge source="Environment_(systems)" target="Solar_radiation" />
+    <edge source="Environment_(systems)" target="Kostas_Axelos" />
+    <edge source="Environment_(systems)" target="World-systems_theory" />
+    <edge source="Environment_(systems)" target="Praxis_intervention" />
+    <edge source="Environment_(systems)" target="Louis_Althusser" />
+    <edge source="Environment_(systems)" target="Overdetermination" />
+    <edge source="Environment_(systems)" target="David_Harvey_(geographer)" />
+    <edge source="Environment_(systems)" target="Capitalism" />
+    <edge source="Environment_(systems)" target="Foreign_direct_investment" />
+    <edge source="Environment_(systems)" target="Privatization" />
+    <edge source="Environment_(systems)" target="Accumulation_by_dispossession" />
+    <edge source="Espionage" target="Confidentiality" />
+    <edge source="Espionage" target="Business" />
+    <edge source="Automated_threat" target="Web_application" />
+    <edge source="Innovation" target="Service_(economics)" />
+    <edge source="Innovation" target="Government" />
+    <edge source="Fence" target="Bridge" />
+    <edge source="Kostas_Axelos" target="Greek_language" />
+    <edge source="Compatible_Time-Sharing_System" target="Operating_system" />
+    <edge source="Plaintext" target="Cryptography" />
+    <edge source="Plaintext" target="Encryption" />
+    <edge source="Plaintext" target="Ciphertext" />
+    <edge source="Plaintext" target="Cipher" />
+    <edge source="Plaintext" target="Code" />
+    <edge source="Plaintext" target="Physical_security" />
+    <edge source="Plaintext" target="Operating_system" />
+    <edge source="Risk_management" target="Threat_(security)" />
+    <edge source="Risk_management" target="Natural_disaster" />
+    <edge source="Risk_management" target="Security" />
+    <edge source="Physical_infrastructure" target="Bridge" />
+    <edge source="Electrical_substation" target="Electric_power_transmission" />
+    <edge source="Electrical_substation" target="Electric_power_distribution" />
+    <edge source="Social_network_analysis" target="Graph_theory" />
+    <edge source="Bank" target="Loan" />
+    <edge source="Bank" target="Asset" />
+    <edge source="Unix" target="Operating_system" />
+    <edge source="Romanization_of_Greek" target="Modern_Greek" />
+    <edge source="Romanization_of_Greek" target="Latin" />
+    <edge source="Certificate_authority" target="Cryptography" />
+    <edge source="Certificate_authority" target="Transport_Layer_Security" />
+    <edge source="Certificate_authority" target="Man-in-the-middle_attack" />
+    <edge source="Certificate_authority" target="Public_key_infrastructure" />
+    <edge source="Certificate_authority" target="Key_(cryptography)" />
+    <edge source="Business_cycle" target="GDP" />
+    <edge source="Financial_instrument" target="Currency" />
+    <edge source="Financial_instrument" target="Bond_(finance)" />
+    <edge source="Financial_instrument" target="Loan" />
+    <edge source="Financial_instrument" target="Share_(finance)" />
+    <edge source="Financial_instrument" target="Option_(finance)" />
+    <edge source="Financial_instrument" target="Futures_contract" />
+    <edge source="Financial_instrument" target="Liability_(financial_accounting)" />
+    <edge source="Modern_Greek" target="Greek_language" />
+    <edge source="Security" target="Business_continuity_planning" />
+    <edge source="Security" target="Physical_security" />
+    <edge source="Jurisdiction" target="Latin" />
+    <edge source="Jurisdiction" target="Nation_state" />
+    <edge source="Protective_barriers" target="Fence" />
+    <edge source="Cipher" target="Cryptography" />
+    <edge source="Cipher" target="Algorithm" />
+    <edge source="Cipher" target="Encryption" />
+    <edge source="Cipher" target="Plaintext" />
+    <edge source="Cipher" target="Ciphertext" />
+    <edge source="Cipher" target="Key_(cryptography)" />
+    <edge source="Solar_radiation" target="Solar_radiation" />
+    <edge source="Zero_trust" target="Mutual_authentication" />
+    <edge source="Threat_actor" target="System" />
+    <edge source="Threat_actor" target="Nation_state" />
+    <edge source="Threat_actor" target="Money" />
+    <edge source="Threat_actor" target="Finance" />
+    <edge source="Leon_Battista_Alberti" target="Cryptography" />
+    <edge source="Company" target="Jurisdiction" />
+    <edge source="Company" target="Bank" />
+    <edge source="Company" target="Share_(finance)" />
+    <edge source="Crypt_(Unix)" target="Unix" />
+    <edge source="Crypt_(Unix)" target="Algorithm" />
+    <edge source="Crypt_(Unix)" target="Cryptography" />
+    <edge source="Crypt_(Unix)" target="Caesar_cipher" />
+    <edge source="Crypt_(Unix)" target="Robert_Morris_(cryptographer)" />
+    <edge source="Crypt_(Unix)" target="Symmetric-key_algorithm" />
+    <edge source="Polyalphabetic_cipher" target="Al-Qalqashandi" />
+    <edge source="Polyalphabetic_cipher" target="Leon_Battista_Alberti" />
+    <edge source="Polyalphabetic_cipher" target="Latin" />
+    <edge source="Polyalphabetic_cipher" target="Frequency_analysis" />
+    <edge source="Volt" target="Energy" />
+  </graph>
+</graphml>
